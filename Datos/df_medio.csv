@@ -1,0 +1,11 @@
+,Valor,Significado
+0,1,Arma de fuego
+1,2,"Arma blanca, cortopunzante"
+2,3,Asfixia por inmersión
+3,4,"Sustancia tóxica, veneno"
+4,5,"Ahorcamiento, asfixia respiratoria"
+5,6,"Fuego, vapores, objetos calientes"
+6,7,Lanzamiento al vacío
+7,8,Lanzamiento desde vehículo
+8,9,Otros
+9,99,No declarado

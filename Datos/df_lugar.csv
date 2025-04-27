@@ -1,0 +1,21 @@
+,Valor,Significado
+0,1,"Vía pública, parque"
+1,2,"Vivienda, domicilio o residencia"
+2,3,"Colmado, discoteca, bar, colmadón"
+3,4,"Hotel, motel, pensión, cabaña"
+4,5,"Almacen, mercado, plaza comercial, supermecado"
+5,6,"Finca, parcela, terreno baldío, solar y afines"
+6,7,"Río, cañada, canal, lago, laguna"
+7,8,"Mar, playa"
+8,9,"Cárcel, cuartel, fortaleza, puesto de chequeo"
+9,10,Interior de vehículo
+10,11,Construcción de edificios y afines
+11,12,Instalaciones deportivas y de recreo
+12,13,"Parqueo, estacionamiento"
+13,14,Trabajo
+14,15,"Otro establecimiento comercial, empresa con servicio al público"
+15,16,Instalaciones de negocio o empresa no comercial (sin servicio al público)
+16,17,"Centros educativos, centros de salud y otras instalaciones públicas)"
+17,18,Puente
+18,19,Otros
+19,99,No declarado
